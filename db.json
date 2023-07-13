@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "text": "Vue Öğren",
+      "checked": true,
+      "id": 1
+    },
+    {
+      "text": "Php öğren",
+      "checked": false,
+      "id": 2
+    },
+    {
+      "text": "web dev olarak işe başla",
+      "checked": false,
+      "id": 3
+    },
+    {
+      "text": "üniden mezun ol",
+      "checked": true,
+      "id": 4
+    }
+  ]
+}
